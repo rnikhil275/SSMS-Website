@@ -16,7 +16,7 @@ include 'header.php';
                     <span class="icon-bar"></span>
 
                 </button>
-                <a href="#" class="navbar-brand" >SSMS</a>
+                <a href="index.php" class="navbar-brand" >SSMS</a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
@@ -94,6 +94,7 @@ include 'header.php';
                 <div class="row">
 
                 </div>
+                <div class="box-menu">
               <div class="box-6 top-6" style="margin-top:-20px;">
                     <h4 style="font-size:150%;">Breakfast</h4>
                     <?php
@@ -149,6 +150,7 @@ include 'header.php';
                     <hr style="width:50%;height:2px;border:none;color:#333;background-color:#333;" >
                 </div>
                     </center>
+                </div>
             </div>
 
         </div>
